@@ -1,0 +1,27 @@
+{
+  "name": "vigilante",
+  "version": "1.0.0",
+  "description": "Spam Detection BOT for Telegram groups. (Tokenised Reward System)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejasnikumbh/vigilante.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejasnikumbh/vigilante/issues"
+  },
+  "homepage": "https://github.com/tejasnikumbh/vigilante#readme",
+  "dependencies": {
+    "nodemon": "^1.18.4",
+    "sleep": "^5.2.3",
+    "lodash": "^4.17.10",
+    "mongodb": "^1.4.39",
+    "mongoose": "^5.2.6",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
