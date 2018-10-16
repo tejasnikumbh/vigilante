@@ -1,5 +1,7 @@
 # Vigilante
-![alt text](images/bot.png)
+
+![alt text](images/bot.jpg)
+
 Spam Detection BOT for Telegram groups. (Tokenised Reward System)
 
 ## Summary 
